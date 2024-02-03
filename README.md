@@ -2,4 +2,4 @@
 It is a basic portolio website, designed using only HTML and CSS.
 The site includes homepage,about,educaion,skills and contact page.
 
-(Still working on it)
+(This project is currently under development and is not yet finished.)
